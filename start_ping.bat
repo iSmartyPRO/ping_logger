@@ -1,0 +1,1 @@
+PingLogger.exe .\ 8.8.8.8
